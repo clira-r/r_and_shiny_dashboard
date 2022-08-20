@@ -34,5 +34,26 @@ Nota: recuerda que si tienes problemas con el codificado guarda tu archivo `app.
 
 __Notas para los datos de soccer:__ https://www.football-data.co.uk/notes.txt
 
+---
+
+#To Do
+
+* Graficas de barras -> Las de Miguel, colores de Adrian
+* Base -> El de Marcos
+* Imagenes -> Las de Adrian
+* Cuadro de texo con las interpretaciones para cada opcion
+* Los Momios -> La de Marcos
+* La tabla -> La de Miguel
+* Agregar pestania de presentacion con descripcion y nombres
+
+
+
+
+
+
+
+
+
+
 
 
